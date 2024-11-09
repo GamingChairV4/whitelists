@@ -1,9 +1,9 @@
 {
   "WhitelistedUsers": {
     "995129234127335444": {
-      "hash": "d4267f0faddd7f8d313ea949ac0878cb9f53c4cc9d966faf95c2b92c0da4de7fe2ec427d45db3cc116c5661a439199e2f8d108a9334950ce30758c051da28124",
+      "hash": "784f44036d0cbf04a791f11188aad08a396da7d88e1a37daf65164772deb2c89e0225042eef2ea6c5f4a3ac21ef896d13d0b6c449e5e6e6a928aa57c1497041a",
       "attackable": false,
-      "level": 1,
+      "level": 2,
       "tags": [
         {
           "text": "rise guy",
